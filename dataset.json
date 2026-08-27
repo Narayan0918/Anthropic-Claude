@@ -1,0 +1,14 @@
+[
+  {
+    "task": "Extract AWS region codes from CloudFormation template ARNs using pattern matching",
+    "format": "regex"
+  },
+  {
+    "task": "Parse an AWS S3 bucket policy JSON and extract all principal ARNs",
+    "format": "python"
+  },
+  {
+    "task": "Generate a valid AWS IAM policy JSON document that allows read-only access to a specific S3 bucket",
+    "format": "json"
+  }
+]
